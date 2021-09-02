@@ -21,5 +21,6 @@ public class BinaryTreeMain {
 
 		int size=myBinaryTree.getSize();
 		System.out.println("Size of tree is "+size);
+		System.out.println(myBinaryTree.search(63));
 	}
 }
